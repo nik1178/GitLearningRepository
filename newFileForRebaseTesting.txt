@@ -1,1 +1,2 @@
 This file was created in the master branch, without having first merged with the rebaseBranch.
+Adding a new line after I have rebased, merged and pushed already
