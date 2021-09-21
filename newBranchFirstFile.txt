@@ -1,0 +1,1 @@
+New line in newBranchFirstFile added after mergin master and newBranch and creating the branch rebaseTestBranch
